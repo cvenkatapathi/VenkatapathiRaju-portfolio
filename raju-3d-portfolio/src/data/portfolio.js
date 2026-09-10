@@ -33,6 +33,18 @@ export const skills = [
 ];
 
 export const experience = [
+
+  {
+    period: "may 2026 — Sep 2026",
+    role: "Freelance Full Stack Developer",
+    company: "SVS Vastra Collections",
+    points: [
+      "Built a complete e-commerce platform for a real saree-business client.",
+      "Implemented customer and admin workflows with Spring Boot and MySQL.",
+      "Developed product, cart, wishlist and order functionality.",
+      "Worked with Thymeleaf, JPA, Hibernate, JavaScript and GitHub."
+    ]
+  },
   {
     period: "Dec 2025 — Apr 2026",
     role: "Java Full Stack Development Intern",
@@ -55,18 +67,8 @@ export const experience = [
       "Implemented CRUD operations with MySQL.",
       "Practiced REST API integration and consumption."
     ]
-  },
-  {
-    period: "2024 — Present",
-    role: "Freelance Full Stack Developer",
-    company: "SVS Vastra Collections",
-    points: [
-      "Built a complete e-commerce platform for a real saree-business client.",
-      "Implemented customer and admin workflows with Spring Boot and MySQL.",
-      "Developed product, cart, wishlist and order functionality.",
-      "Worked with Thymeleaf, JPA, Hibernate, JavaScript and GitHub."
-    ]
   }
+   
 ];
 
 export const education = {
