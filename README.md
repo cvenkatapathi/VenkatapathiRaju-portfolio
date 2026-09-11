@@ -5,7 +5,7 @@
 ### Full Stack Developer • Java • Spring Boot • React • JavaScript
 
 <p>
-  <a href="https://venkatapathi-raju-fk7p.vercel.app/">
+  <a href="https://venkatapathi-raju-portfolio-fk7p.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-0B1026?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
   </a>
   <a href="https://github.com/cvenkatapathi/VenkatapathiRaju-portfolio">
