@@ -259,7 +259,7 @@ The portfolio is deployed on **Vercel**.
 
 ### Production URL
 
-**[https://venkatapathi-raju-fk7p.vercel.app/](https://venkatapathi-raju-fk7p.vercel.app/)**
+**[https://venkatapathi-raju-fk7p.vercel.app/](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)**
 
 The project is connected to GitHub so future changes can follow the normal workflow:
 
@@ -327,7 +327,7 @@ Live Portfolio
 https://github.com/cvenkatapathi/VenkatapathiRaju-portfolio
 
 **Live Portfolio:**  
-https://venkatapathi-raju-fk7p.vercel.app/
+[https://venkatapathi-raju-fk7p.vercel.app/](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
 
 ---
 
@@ -339,7 +339,7 @@ Full Stack Developer focused on building practical, responsive and end-to-end we
 
 **GitHub:** [@cvenkatapathi](https://github.com/cvenkatapathi)
 
-**Portfolio:** [Visit Website](https://venkatapathi-raju-fk7p.vercel.app/)
+**Portfolio:** [Visit Website](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
 
 ---
 
