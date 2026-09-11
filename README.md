@@ -43,7 +43,7 @@ The portfolio combines a modern React frontend with **Three.js-powered 3D visual
 
 ### 🌐 Live Website
 
-**[🚀 Visit My Portfolio](https://venkatapathi-raju-fk7p.vercel.app/)**
+**[🚀 Visit My Portfolio](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)**
 
 ---
 
