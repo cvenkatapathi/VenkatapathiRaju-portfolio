@@ -289,31 +289,26 @@ Live Portfolio
   <img src="./assets/hero.png" alt="Portfolio home page with 3D hero" width="900"/>
 </p>
 
+
 ### About Me
-
-<p align="center">
-  <img src="./assets/about.png" alt="Portfolio About section" width="900"/>
-</p>
-
-### Skills
 
 <p align="center">
   <img src="./assets/skills.png" alt="Portfolio skills section" width="900"/>
 </p>
 
-### Experience
+### Skills -->
 
 <p align="center">
   <img src="./assets/experience.png" alt="Portfolio experience section" width="900"/>
 </p>
 
-### Featured Projects
+### Skills
 
 <p align="center">
   <img src="./assets/projects.png" alt="Portfolio featured projects" width="900"/>
 </p>
 
-### What I Do
+### Expericence
 
 <p align="center">
   <img src="./assets/what-i-do.png" alt="Portfolio services section" width="900"/>
